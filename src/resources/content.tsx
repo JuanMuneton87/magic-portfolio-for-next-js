@@ -60,7 +60,7 @@ const home: Home = {
   label: "Home",
   title: `Cloud Computing: Práctica 1`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Laboratorio 1 Cloud Computing</>,
+  headline: "Laboratorio 1 Cloud Computing",
   featured: {
     display: true,
     title: (
