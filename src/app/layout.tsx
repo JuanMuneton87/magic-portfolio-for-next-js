@@ -106,7 +106,7 @@ export default async function RootLayout({
       <Providers>
         <Column
           as="body"
-          background="page"
+          background="#0b0f19"
           fillWidth
           style={{ minHeight: "100vh" }}
           margin="0"
